@@ -69,7 +69,7 @@ FAISS Vektör Arama
       ▼
 Skor & Belirsizlik Kontrolü
       │
-      ├── Tarif Yok → “Bu tarif veri setimde bulunmuyor.”
+      ├── Tarif Yok → “Bu tarif veri setimde bulunmuyor. & Benzer tarifler üzerinden ilerlenebilir.”
       │
       └── Tarif Var
              │
@@ -127,6 +127,6 @@ Veri seti ve model lisansları ilgili sağlayıcılara aittir.
 ## Yazar
 
 **Yemek Tarifleri Chatbot**
-RAG tabanlı güvenli NLP projesi Burak AVCI tarafından yapılmıştır(burakavci0206@gmail.com)
+RAG tabanlı güvenli NLP projesi Burak AVCI tarafından yapılmıştır. (burakavci0206@gmail.com)
 
 ---
